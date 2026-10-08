@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="D:/c#正课文件/5.12/plc通信/1_西门子通信/1_西门子通信.csproj" Id="b01cd6ab-809a-44e3-8943-140a9edaeb2b" />
+  <Project Path="D:/c#正课文件/5.12/plc通信/2_三菱/2_三菱.csproj" Id="5a77cad4-8f40-4b3f-8d38-58a17f8d3690" />
+  <Project Path="D:/c#正课文件/5.12/plc通信/3_欧姆龙Fins协议/3_欧姆龙Fins协议.csproj" Id="d0fb86ad-21b0-481e-a4b6-02a6beb03869" />
+  <Project Path="D:/c#正课文件/5.12/plc通信/4_欧姆龙的Modbus Tcp/4_欧姆龙的Modbus Tcp.csproj" Id="78776fb0-ca9f-483a-9f6e-f129b5dd90d4" />
+</Solution>
